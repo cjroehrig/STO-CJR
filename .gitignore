@@ -1,0 +1,21 @@
+#==================================================
+# Blacklist (Last match has precedence)
+
+/OLD/*
+/*
+
+#==================================================
+# Whitelist
+
+# for empty directories:
+!.gitkeep
+
+# Explicitly include our main files:
+!/.gitignore
+!/README.md
+!/Doffing.md
+!/img/
+!/Space.txt
+!/Ground.txt
+!/ui.txt
+!/sto2keys.py

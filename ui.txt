@@ -1,0 +1,3018 @@
+{
+
+Eastoredpositions
+{
+	Pchname _Cell_Common_Interact_Lowpriority_0_Jail_Hud_Common
+	Eoffsetfrom 5
+	Fpercenty 0.148148
+	Fwidth 244.000000
+	Fheight 130.000000
+	Iversion 23
+	Chpriority 25
+	Uitime 704742073
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Common_Openmissionpvp_0_Jail_Hud_Common
+	Eoffsetfrom 12
+	Fpercenty 0.202777
+	Fwidth 244.000000
+	Fheight 190.000000
+	Iversion 23
+	Chpriority 24
+	Uitime 702890177
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Common_Pause_0_Jail_Hud_Common
+	Eoffsetfrom 5
+	Fpercentx 0.404687
+	Fpercenty 0.203703
+	Fwidth 400.000000
+	Fheight 80.000000
+	Iversion 23
+	Chpriority 25
+	Uitime 704742126
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Common_Personaltray_Big_0_Jail_Hud_System
+	Eoffsetfrom 5
+	Fpercentx 0.311146
+	Fwidth 403.000031
+	Fheight 160.000000
+	Iversion 11
+	Chpriority 24
+	Uitime 704766744
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Common_Personaltray_Big_1_Jail_Hud_System
+	Eoffsetfrom 5
+	Fpercentx 0.120468
+	Fwidth 66.000000
+	Fheight 472.000061
+	Iversion 11
+	Chpriority 24
+	Uitime 704766764
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Gnd_Tray_0_Jail_Hud_Ground
+	Eoffsetfrom 5
+	Fpercentx 0.353281
+	Fwidth 512.000061
+	Fheight 161.000000
+	Iversion 11
+	Chpriority 21
+	Uitime 704755579
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Romulan_Singularity_0_Jail_Hud_Romulan
+	Eoffsetfrom 3
+	Fpercentx 0.423958
+	Fpercenty 0.122037
+	Fwidth 116.999992
+	Fheight 108.000000
+	Iversion 1
+	Chpriority 25
+	Uitime 704742106
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Sys_Bridgecrew_0_Jail_Hud_System
+	Eoffsetfrom 5
+	Fpercentx 0.181979
+	Fpercenty 0.135555
+	Fwidth 674.000000
+	Fheight 64.000000
+	Iversion 11
+	Chpriority 24
+	Uitime 704766770
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Sys_Powerlevels_0_Jail_Hud_System
+	Eoffsetfrom 3
+	Fpercentx 0.280729
+	Fwidth 103.000008
+	Fheight 170.000000
+	Iversion 11
+	Chpriority 25
+	Uitime 704742091
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Sys_Shipstatus_0_Jail_Hud_System
+	Eoffsetfrom 3
+	Fpercentx 0.329688
+	Fwidth 160.000000
+	Fheight 195.000000
+	Iversion 11
+	Chpriority 25
+	Uitime 704742094
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Sys_Throttle_0_Jail_Hud_System
+	Eoffsetfrom 3
+	Fpercentx 0.404686
+	Fwidth 39.000000
+	Fheight 175.000000
+	Iversion 11
+	Chpriority 25
+	Uitime 704742101
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Sys_Weapons_0_Jail_Hud_System
+	Eoffsetfrom 3
+	Fpercentx 0.425
+	Fwidth 129.000000
+	Fheight 143.000000
+	Iversion 11
+	Chpriority 24
+	Uitime 704766748
+}
+
+Eastoredpositions
+{
+	Pchname Auction_Root
+	Eoffsetfrom 12
+	Fpercentx 0.028125
+	Fpercenty 0.061111
+	Fwidth 0.65
+	Fheight 0.65
+	Iversion 5
+	Uitime 705570050
+}
+
+Eastoredpositions
+{
+	Pchname Bank_Root
+	Eoffsetfrom 10
+	Fpercentx 0.253643
+	Fpercenty 0.167592
+	Fwidth 530.000000
+	Fheight 542.000000
+	Iversion 4
+	Uitime 705598952
+}
+
+Eastoredpositions
+{
+	Pchname Charactermenu_Map_Hud
+	Eoffsetfrom 10
+	Fpercentx 0.133854
+	Fpercenty 0.100925
+	Fwidth 0.7
+	Fheight 0.7
+	Iversion 3
+	Uitime 705441759
+}
+
+Eastoredpositions
+{
+	Pchname Charactermenu_Missionjournal_Hud
+	Eoffsetfrom 10
+	Fpercentx 0.2625
+	Fpercenty 0.138888
+	Fwidth 980.000000
+	Fheight 700.000000
+	Iversion 1
+	Uitime 705479515
+}
+
+Eastoredpositions
+{
+	Pchname Charactermenu_Status_Hud
+	Eoffsetfrom 10
+	Fpercentx 0.036458
+	Fpercenty 0.064814
+	Fwidth 890.000061
+	Fheight 746.000000
+	Iversion 5
+	Uitime 705478650
+}
+
+Eastoredpositions
+{
+	Pchname Characterstatus_Rename_Root
+	Eoffsetfrom 5
+	Fpercentx 0.35677
+	Fpercenty 0.210185
+	Fwidth 550.000000
+	Fheight 1.000000
+	Iversion 1
+	Uitime 662114777
+}
+
+Eastoredpositions
+{
+	Pchname Chat_Minimized
+	Eoffsetfrom 3
+	Iversion 1
+	Uitime 660635217
+}
+
+Eastoredpositions
+{
+	Pchname Chat_Root
+	Eoffsetfrom 3
+	Fwidth 597.000000
+	Fheight 200.000000
+	Iversion 1
+	Uitime 704180026
+}
+
+Eastoredpositions
+{
+	Pchname Currencyexchange
+	Eoffsetfrom 5
+	Fpercentx 0.304686
+	Fpercenty 0.22222
+	Fwidth 750.000000
+	Fheight 600.000000
+	Iversion 1
+	Uitime 702550117
+}
+
+Eastoredpositions
+{
+	Pchname Dutyofficerassignments_Root
+	Eoffsetfrom 10
+	Fpercentx 0.172395
+	Fpercenty 0.066666
+	Fheight 702.000061
+	Iversion 1
+	Uitime 705641273
+}
+
+Eastoredpositions
+{
+	Pchname Entityinfo_Root
+	Eoffsetfrom 3
+	Fpercentx 0.314583
+	Fpercenty 0.302778
+	Fwidth 600.000000
+	Fheight 410.000000
+	Iversion 1
+	Uitime 705134450
+}
+
+Eastoredpositions
+{
+	Pchname Eventdetails_Root
+	Eoffsetfrom 5
+	Fpercentx 0.395312
+	Fpercenty 0.313889
+	Iversion 1
+	Uitime 704267667
+}
+
+Eastoredpositions
+{
+	Pchname Fleet_Root
+	Eoffsetfrom 12
+	Fpercentx 0.084323
+	Fpercenty 0.123148
+	Fwidth 989.000061
+	Fheight 660.000000
+	Iversion 2
+	Uitime 705641593
+}
+
+Eastoredpositions
+{
+	Pchname Guildbank_Root
+	Eoffsetfrom 5
+	Fpercentx 0.347394
+	Fpercenty 0.207406
+	Fwidth 650.000000
+	Fheight 700.000000
+	Iversion 2
+	Uitime 702796555
+}
+
+Eastoredpositions
+{
+	Pchname Hud_Powerlist_Window
+	Eoffsetfrom 12
+	Fpercentx 0.164323
+	Fpercenty 0.155555
+	Fwidth 645.000000
+	Fheight 440.000000
+	Iversion 3
+	Uitime 704698899
+}
+
+Eastoredpositions
+{
+	Pchname Interiorinvite_Root
+	Eoffsetfrom 5
+	Fpercentx 0.421875
+	Fpercenty 0.444438
+	Fwidth 300.000000
+	Fheight 1.000000
+	Iversion 1
+	Uitime 687412762
+}
+
+Eastoredpositions
+{
+	Pchname Inventory_Inspect
+	Eoffsetfrom 3
+	Fpercentx 0.246354
+	Fpercenty 0.281481
+	Fwidth 400.000000
+	Fheight 500.000000
+	Iversion 3
+	Uitime 705603088
+}
+
+Eastoredpositions
+{
+	Pchname Inventory_Root
+	Eoffsetfrom 5
+	Fpercentx 0.019635
+	Fpercenty 0.196574
+	Fwidth 527.000000
+	Fheight 683.000061
+	Iversion 2
+	Uitime 705641351
+}
+
+Eastoredpositions
+{
+	Pchname Keyboardlayout_Root
+	Eoffsetfrom 3
+	Fpercentx 0.041666
+	Fpercenty 0.311387
+	Fwidth 1.000000
+	Fheight 1.000000
+	Iversion 1
+	Uitime 702965572
+}
+
+Eastoredpositions
+{
+	Pchname Mail_Root
+	Eoffsetfrom 5
+	Fpercentx 0.129167
+	Fpercenty 0.178889
+	Fwidth 700.000000
+	Fheight 592.000000
+	Iversion 3
+	Uitime 704995637
+}
+
+Eastoredpositions
+{
+	Pchname Mediacontrol_Root
+	Eoffsetfrom 5
+	Fpercentx 0.421875
+	Fpercenty 0.449072
+	Fwidth 300.000000
+	Fheight 1.000000
+	Iversion 1
+	Uitime 702713327
+}
+
+Eastoredpositions
+{
+	Pchname Options
+	Eoffsetfrom 10
+	Fpercentx 0.216666
+	Fpercenty 0.138888
+	Fwidth 976.000000
+	Fheight 700.000000
+	Iversion 4
+	Uitime 702954531
+}
+
+Eastoredpositions
+{
+	Pchname Petintroduction_Root
+	Eoffsetfrom 5
+	Fpercentx 0.391665
+	Fpercenty 0.312036
+	Fwidth 460.000000
+	Fheight 450.000000
+	Iversion 2
+	Uitime 704010994
+}
+
+Eastoredpositions
+{
+	Pchname Shipchooser_Root
+	Eoffsetfrom 3
+	Fpercenty 0.175925
+	Iversion 4
+	Uitime 662115495
+}
+
+Eastoredpositions
+{
+	Pchname Shipstore
+	Eoffsetfrom 12
+	Fpercentx 0.119792
+	Fpercenty 0.035185
+	Fwidth 1000.000000
+	Fheight 900.000000
+	Iversion 4
+	Uitime 704156528
+}
+
+Eastoredpositions
+{
+	Pchname Social_Root
+	Eoffsetfrom 3
+	Fpercentx 0.306769
+	Fpercenty 0.268516
+	Fwidth 740.000000
+	Fheight 499.000061
+	Iversion 2
+	Uitime 687410020
+}
+
+Eastoredpositions
+{
+	Pchname Spacecontact_Window
+	Eoffsetfrom 12
+	Fpercentx 0.133333
+	Fpercenty 0.139814
+	Iversion 1
+	Uitime 705478651
+}
+
+Eastoredpositions
+{
+	Pchname Store
+	Eoffsetfrom 10
+	Fpercentx 0.271875
+	Fpercenty 0.24074
+	Fwidth 550.000000
+	Fheight 499.000061
+	Iversion 1
+	Uitime 705593642
+}
+
+Eastoredpositions
+{
+	Pchname Storecollection_Root
+	Eoffsetfrom 12
+	Fpercentx 0.106302
+	Fpercenty 0.146296
+	Fwidth 960.999939
+	Fheight 700.000000
+	Iversion 3
+	Uitime 705287583
+}
+
+Eastoredpositions
+{
+	Pchname Transactions_Root
+	Eoffsetfrom 10
+	Fpercentx 0.09375
+	Fpercenty 0.073148
+	Fwidth 0.8
+	Fheight 0.834257
+	Iversion 17
+	Uitime 705609185
+}
+
+Eapairs
+{
+	Pchkey Cstorelastopened
+	Pchvalue 705609084
+	Uitime 705609085
+}
+
+Eapairs
+{
+	Pchkey Deathlog
+	Pchvalue 0
+	Uitime 662183704
+}
+
+Eapairs
+{
+	Pchkey Dutyofficersettings
+	Pchvalue "Unset Unset *firstofficer 121999004 *engineeringhead 122013111 *operationshead 140650946 *sciencehead 123508302 *medicalhead 123508302 *tacticalhead 140408932 *securityhead 140408932 *recommendations 1 *commendations 1 *selectfilters 0 *selectgrouping 0 *assignmentview 1"
+	Uitime 705685935
+}
+
+Eapairs
+{
+	Pchkey Hidespecialtray
+	Pchvalue 0
+	Uitime 703058540
+}
+
+Eapairs
+{
+	Pchkey Itemequip_Mode
+	Pchvalue List
+	Uitime 704937288
+}
+
+Eapairs
+{
+	Pchkey Jail_Cell_Count_Hud_System_Common_Personaltray_Big
+	Pchvalue 2
+	Uitime 702890080
+}
+
+Eapairs
+{
+	Pchkey Lastreleasenotes
+	Pchvalue 125
+	Uitime 705522992
+}
+
+Eapairs
+{
+	Pchkey Tailor_List_Mode
+	Pchvalue Preview_Large
+	Uitime 703285227
+}
+
+Pschemes
+{
+	Iversion 4747
+	Pchcurrent Space
+
+	Schemeregion
+	{
+		Etype Ground
+		Pchscheme Ground
+	}
+
+	Schemeregion
+	{
+		Etype Space
+		Pchscheme Space
+	}
+
+	Scheme Ground Stogroundgameplay
+	{
+		Hnamemsg Controlscheme_Ground
+		Iversion 3
+		Ecamerafollowtype Never
+		Eautoattacktype ToggleNoCancel
+		Bautohardtarget 1
+		Bsnapcameraonattack 1
+		Bcanceltargetonoffclick 1
+		Btargetthreateningfirst 1
+		Bresettabovertime 1
+		Bassisttargetifinvalid 1
+		Bstopmovingoninteract 1
+		Bkeepmovingduringcontactdialogs 1
+		Bdoubletapdirtoroll 1
+		Baimmodeastoggle 1
+		Busezoomcamwithaimmode 1
+		Icamdistance 8.471729
+		Fcammaxdistance 35.000000
+		Fcammouselooksensitivity 0.977939
+		Fcamcontrollerlooksensitivity 2.000000
+		Buseoffsetrotation 1
+		Brequirevalidtarget 1
+		Allowkeyprofile STOGroundGameplay
+		Allowautoattacktype  Toggle, ToggleNoCancel, ToggleCombat, Maintain
+	}
+
+	Scheme Space Stospacegameplay
+	{
+		Hnamemsg Controlscheme_Space
+		Iversion 5
+		Eautoattacktype Toggle
+		Bautohardtarget 1
+		Bcanceltargetonoffclick 1
+		Btargetthreateningfirst 1
+		Bresettabovertime 1
+		Bassisttargetifinvalid 1
+		Bkeepmovingduringcontactdialogs 1
+		Bdoubletapdirtoroll 1
+		Baimmodeastoggle 1
+		Icamdistance 44.000000
+		Fcammaxdistance 200.000000
+		Fcammouselooksensitivity 2.500000
+		Fcamcontrollerlooksensitivity 2.000000
+		Camcontrollersensitivitypitchmultiplier 0.5
+		Busethrottle 1
+		Brequirevalidtarget 1
+		Bdisablefaceactivate 1
+		Fcamstartingpitch 35.000000
+		Fflightmaxpitchangle 45.000000
+	}
+
+	Scheme Shooter Stoshootergameplay
+	{
+		Hnamemsg Controlscheme_Shooter
+		Iversion 3
+		Einitialtargetorder OnlyCenter
+		Eautoattacktype Maintain
+		Bstrafing 1
+		Bcanceltargetonoffclick 1
+		Bresettabovertime 1
+		Bmouselookhardtarget 1
+		Bstopmovingoninteract 1
+		Bdoubletapdirtoroll 1
+		Baimmodeastoggle 1
+		Busezoomcamwithaimmode 1
+		Icamdistance 3.938792
+		Fcammaxdistance 35.000000
+		Fcammouselooksensitivity 2.500000
+		Fcamcontrollerlooksensitivity 2.000000
+		Buseoffsetrotation 1
+		Benableshootercamera 1
+		Fmouselookhardtargetradius 0.039999
+	}
+
+	Scheme Space_Console Stospacekeybinds_Console
+	{
+		Hnamemsg Controlscheme_Space_Console
+		Iversion 6
+		Etabtargetorder LeftToRight
+		Eautoattacktype Toggle
+		Bautohardtarget 1
+		Brequirehardtargettoexec 1
+		Bcanceltargetonoffclick 1
+		Btargetthreateningfirst 1
+		Bassisttargetifinvalid 1
+		Bdoubletapdirtoroll 1
+		Icamdistance 75.000000
+		Fcammaxdistance 200.000000
+		Fcammouselooksensitivity 2.500000
+		Busethrottle 1
+		Fcamstartingpitch 35.000000
+		Fflightmaxpitchangle 45.000000
+	}
+
+	Scheme Ground_Console Stogroundkeybinds_Console
+	{
+		Hnamemsg Controlscheme_Ground_Console
+		Iversion 3
+		Etabtargetorder LeftToRight
+		Einitialtargetorder OnlyCenter
+		Eautoattacktype Maintain
+		Bstrafing 1
+		Bcanceltargetonoffclick 1
+		Bmouselookhardtarget 1
+		Bstopmovingoninteract 1
+		Bdoubletapdirtoroll 1
+		Icamdistance 15.000000
+		Fcammaxdistance 40.000000
+		Fcammouselooksensitivity 2.500000
+		Buseoffsetrotation 1
+		Benableshootercamera 1
+		Fmouselookhardtargetradius 0.039999
+	}
+}
+
+Notifysetting
+{
+	Pchnotifygroupname Gameplayannounce
+	Eflags DisableChat | DisableQueue | DisableTutorial | DisableActionSound | DisableNotifySound
+}
+
+Pchatconfig
+{
+
+	Eachannelcolordefs
+	{
+		Name -STO-
+		Color 1442818559
+	}
+
+	Eachannelcolordefs
+	{
+		Name RedditChat
+		Color -1442884097
+	}
+
+	Eachattabgroupconfigs
+	{
+		Name 0
+
+		Eachattabconfigs
+		{
+			Title Chat
+			Defaultchannel Local
+			Channelfiltermode Exclusive
+			Messagetypefiltermode Exclusive
+			Messagetype Combatself
+			Messagetype Combatteam
+			Messagetype Combatother
+			Messagetype Npc
+		}
+
+		Eachattabconfigs
+		{
+			Title NPC
+			Defaultchannel Local
+			Messagetype Npc
+			Messagetype System
+			Messagetype Mission
+		}
+
+		Eachattabconfigs
+		{
+			Title Combat
+			Defaultchannel Local
+			Messagetype Combatself
+			Messagetype Combatteam
+			Messagetype Combatother
+			Messagetype Rewardminor
+			Messagetype System
+		}
+
+		Eachattabconfigs
+		{
+			Title Social
+			Defaultchannel Local
+			Channelfiltermode Exclusive
+			Messagetypefiltermode Exclusive
+			Messagetype Npc
+			Messagetype Combatself
+			Messagetype Combatteam
+			Messagetype Combatother
+			Messagetype Emote
+			Messagetype Inventory
+			Messagetype Minigame
+			Messagetype Mission
+			Messagetype Reward
+			Messagetype Rewardminor
+			Messagetype System
+		}
+
+		Eachattabconfigs
+		{
+			Title Tells
+			Defaultchannel Local
+			Channelfiltermode Exclusive
+			Messagetypefiltermode Exclusive
+			Channel -sto-
+			Channel Redditchat
+			Messagetype Npc
+			Messagetype Combatself
+			Messagetype Combatteam
+			Messagetype Combatother
+			Messagetype Alliance
+			Messagetype Guild
+			Messagetype Emote
+			Messagetype Friend
+			Messagetype Inventory
+			Messagetype Local
+			Messagetype Match
+			Messagetype Minigame
+			Messagetype Mission
+			Messagetype Officer
+			Messagetype Reward
+			Messagetype Rewardminor
+			Messagetype System
+			Messagetype Team
+			Messagetype Teamup
+			Messagetype Zone
+		}
+		Time 705449388
+	}
+	Pchcurrenttabgroup 0
+	Pchcurrentinputchannel Local
+	Iversion 8
+	Ffontscale 0.85
+	Finactivewindowalpha 0.45
+	Bshowtime 1
+}
+
+Binds
+{
+	Profile Stogroundgameplay
+
+	KeyBind
+	{
+		Key 0x803+0x58
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x802+0xb7
+	}
+
+	KeyBind
+	{
+		Key 0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x802
+	}
+
+	KeyBind
+	{
+		Key 0xe
+	}
+
+	KeyBind
+	{
+		Key 0xf0
+	}
+
+	KeyBind
+	{
+		Key 0xef
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xf
+		Command ++walk
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2c
+	}
+
+	KeyBind
+	{
+		Key 0xb
+	}
+
+	KeyBind
+	{
+		Key 0x7
+	}
+
+	KeyBind
+	{
+		Key 0x8
+	}
+
+	KeyBind
+	{
+		Key 0x9
+	}
+
+	KeyBind
+	{
+		Key 0xa
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xb
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x7
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x8
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x9
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xa
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xb
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x2
+		Command "+STOTrayExecByTray 3 7"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x3
+		Command "+STOTrayExecByTray 3 0"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4
+		Command "+STOTrayExecByTray 3 1"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x5
+		Command "+STOTrayExecByTray 3 2"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x6
+		Command "+STOTrayExecByTray 3 8"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x7
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x8
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x9
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xa
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4f
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x50
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x51
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4b
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4c
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4d
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x47
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x48
+		Command People
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4f
+		Command Inventory
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x50
+		Command CharacterStatus
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x51
+		Command ShowTrayPowers
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4b
+		Command Missions
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4c
+		Command CrewAssignments
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4d
+		Command DutyOfficer
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x47
+		Command Map
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x48
+		Command FleetWindow
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4f
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x50
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x51
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4b
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4c
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4d
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x47
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x48
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x3
+		Command "+STOTrayExecByTray 0 0"
+	}
+
+	KeyBind
+	{
+		Key 0x4
+		Command "+STOTrayExecByTray 0 1"
+	}
+
+	KeyBind
+	{
+		Key 0x5
+		Command "+STOTrayExecByTray 0 2"
+	}
+
+	KeyBind
+	{
+		Key 0x14
+		Command "+STOTrayExecByTray 0 3"
+	}
+
+	KeyBind
+	{
+		Key 0x30
+		Command "+STOTrayExecByTray 0 4"
+	}
+
+	KeyBind
+	{
+		Key 0x23
+		Command "+STOTrayExecByTray 0 5"
+	}
+
+	KeyBind
+	{
+		Key 0x31
+		Command "+STOTrayExecByTray 0 6"
+	}
+
+	KeyBind
+	{
+		Key 0x2
+		Command "+STOTrayExecByTray 0 7"
+	}
+
+	KeyBind
+	{
+		Key 0x6
+		Command "+STOTrayExecByTray 0 8"
+	}
+
+	KeyBind
+	{
+		Key 0x15
+		Command "+STOTrayExecByTray 0 9"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x3
+		Command "+STOTrayExecByTray 1 0"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4
+		Command "+STOTrayExecByTray 1 1"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x5
+		Command "+STOTrayExecByTray 1 2"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x14
+		Command "+STOTrayExecByTray 1 3"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x30
+		Command "+STOTrayExecByTray 1 4"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x23
+		Command "+STOTrayExecByTray 1 5"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x31
+		Command "+STOTrayExecByTray 1 6"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2
+		Command "+STOTrayExecByTray 1 7"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x6
+		Command "+STOTrayExecByTray 1 8"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x15
+		Command "+STOTrayExecByTray 1 9"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x3
+		Command "+STOTrayExecByTray 2 0"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4
+		Command "+STOTrayExecByTray 2 1"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x5
+		Command "+STOTrayExecByTray 2 2"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x14
+		Command "+STOTrayExecByTray 2 3"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x30
+		Command "+STOTrayExecByTray 2 4"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x23
+		Command "+STOTrayExecByTray 2 5"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x31
+		Command "+STOTrayExecByTray 2 6"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2
+		Command "+STOTrayExecByTray 2 7"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x6
+		Command "+STOTrayExecByTray 2 8"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x15
+		Command "+STOTrayExecByTray 2 9"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x14
+		Command "+STOTrayExecByTray 3 3"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x30
+		Command "+STOTrayExecByTray 3 4"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x23
+		Command "+STOTrayExecByTray 3 5"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x31
+		Command "+STOTrayExecByTray 3 6"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x15
+		Command "+STOTrayExecByTray 3 9"
+	}
+
+	KeyBind
+	{
+		Key 0x2c
+		Command "+STOTrayExecByTray 6 0$$+STOTrayExecByTray 6 1$$+STOTrayExecByTray 6 2$$+STOTrayExecByTray 6 3$$+STOTrayExecByTray 6 4$$+STOTrayExecByTray 6 5$$+STOTrayExecByTray 6 6$$+STOTrayExecByTray 6 7$$+STOTrayExecByTray 6 8$$+STOTrayExecByTray 6 9$$+STOTrayExecByTray 6 8$$+STOTrayExecByTray 6 7$$+STOTrayExecByTray 6 6$$+STOTrayExecByTray 6 5$$+STOTrayExecByTray 6 4$$+STOTrayExecByTray 6 3$$+STOTrayExecByTray 6 2$$+STOTrayExecByTray 6 1$$+STOTrayExecByTray 6 0"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x22
+		Command "+STOTrayExecByTray 5 0$$+STOTrayExecByTray 5 1$$+STOTrayExecByTray 5 2$$+STOTrayExecByTray 5 3$$+STOTrayExecByTray 5 4$$+STOTrayExecByTray 5 5$$+STOTrayExecByTray 5 6$$+STOTrayExecByTray 5 7$$+STOTrayExecByTray 5 8$$+STOTrayExecByTray 5 9$$+STOTrayExecByTray 5 8$$+STOTrayExecByTray 5 7$$+STOTrayExecByTray 5 6$$+STOTrayExecByTray 5 5$$+STOTrayExecByTray 5 4$$+STOTrayExecByTray 5 3$$+STOTrayExecByTray 5 2$$+STOTrayExecByTray 5 1$$+STOTrayExecByTray 5 0"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x22
+		Command "+STOTrayExecByTray 4 0$$+STOTrayExecByTray 4 1$$+STOTrayExecByTray 4 2$$+STOTrayExecByTray 4 3$$+STOTrayExecByTray 4 4$$+STOTrayExecByTray 4 5$$+STOTrayExecByTray 4 6$$+STOTrayExecByTray 4 7$$+STOTrayExecByTray 4 8$$+STOTrayExecByTray 4 9$$+STOTrayExecByTray 4 8$$+STOTrayExecByTray 4 7$$+STOTrayExecByTray 4 6$$+STOTrayExecByTray 4 5$$+STOTrayExecByTray 4 4$$+STOTrayExecByTray 4 3$$+STOTrayExecByTray 4 2$$+STOTrayExecByTray 4 1$$+STOTrayExecByTray 4 0"
+	}
+
+	KeyBind
+	{
+		Key 0x4f
+		Command Inventory
+	}
+
+	KeyBind
+	{
+		Key 0x50
+		Command CharacterStatus
+	}
+
+	KeyBind
+	{
+		Key 0x26
+		Command Missions
+	}
+
+	KeyBind
+	{
+		Key 0x4b
+		Command Missions
+	}
+
+	KeyBind
+	{
+		Key 0x47
+		Command Map
+	}
+
+	KeyBind
+	{
+		Key 0x49
+	}
+
+	KeyBind
+	{
+		Key 0x52
+	}
+
+	KeyBind
+	{
+		Key 0x22
+		Command InteractWindow
+	}
+
+	KeyBind
+	{
+		Key 0x2f
+		Command Target_Enemy_Next
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2f
+		Command Target_Enemy_Near
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2f
+		Command Target_Friend_Next
+	}
+
+	KeyBind
+	{
+		Key 0x28
+		Command startChatReply
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x39
+		Command TimeControl_Toggle
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x13
+		Command PetCommands_SetAllToOwnerAttackTarget
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x21
+		Command "++showfps $$ ++netgraph"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x2c
+		Command ++ShowGameUI
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x34
+		Command screenshot_ui_jpg
+	}
+
+	KeyBind
+	{
+		Key 0x24
+	}
+
+	KeyBind
+	{
+		Key 0x11
+		Command +left
+	}
+
+	KeyBind
+	{
+		Key 0x13
+		Command +right
+	}
+
+	KeyBind
+	{
+		Key 0x1f
+		Command +turnleft
+	}
+
+	KeyBind
+	{
+		Key 0x21
+		Command +turnright
+	}
+
+	KeyBind
+	{
+		Key 0x20
+		Command +backward
+	}
+
+	KeyBind
+	{
+		Key 0x12
+		Command +forward
+	}
+
+	KeyBind
+	{
+		Key 0x10
+		Command SwitchActiveWeapon
+	}
+
+	KeyBind
+	{
+		Key 0x1e
+		Command +run
+	}
+
+	KeyBind
+	{
+		Key 0x2d
+		Command ScanForClickies
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2d
+		Command ScanForClickies
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2c
+		Command HolsterToggle
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x20
+		Command +Aim
+	}
+
+	KeyBind
+	{
+		Key 0xf
+		Command ++autoforward
+	}
+
+	KeyBind
+	{
+		Key 0xf9
+		Command ++autoforward
+	}
+
+	KeyBind
+	{
+		Key 0x802+0xf
+		Command ++SetFollow
+	}
+}
+
+Binds
+{
+	Profile Stoshootergameplay
+
+	KeyBind
+	{
+		Key 0x11
+		Command +left
+	}
+
+	KeyBind
+	{
+		Key 0x12
+		Command +forward
+	}
+
+	KeyBind
+	{
+		Key 0x20
+		Command +backward
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x21
+		Command ToggleShooterMode
+	}
+
+	KeyBind
+	{
+		Key 0x50
+		Command CharacterStatus
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0x1e
+		Command +run
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x13
+		Command TimeControl_Toggle
+	}
+
+	KeyBind
+	{
+		Key 0x802+0xf
+		Command ++SetFollow
+	}
+
+	KeyBind
+	{
+		Key 0x22
+		Command InteractWindow
+	}
+
+	KeyBind
+	{
+		Key 0x2f
+		Command Target_Enemy_Next
+	}
+
+	KeyBind
+	{
+		Key 0xf
+		Command ++autoforward
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x48
+		Command FleetWindow
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2f
+		Command Target_Friend_Next
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2c
+	}
+
+	KeyBind
+	{
+		Key 0x14
+		Command "+STOTrayExecByTray 0 5"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x15
+		Command "+STOTrayExecByTray 2 7"
+	}
+
+	KeyBind
+	{
+		Key 0x30
+		Command "+STOTrayExecByTray 0 6"
+	}
+
+	KeyBind
+	{
+		Key 0x51
+		Command ShowTrayPowers
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0x15
+		Command "+STOTrayExecByTray 0 7"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2f
+		Command Target_Enemy_Near
+	}
+
+	KeyBind
+	{
+		Key 0x23
+		Command "+STOTrayExecByTray 0 8"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2
+		Command "+STOTrayExecByTray 2 0"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2
+		Command "+STOTrayExecByTray 1 0"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x3
+		Command "+STOTrayExecByTray 2 1"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x3
+		Command "+STOTrayExecByTray 1 1"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x23
+		Command "+STOTrayExecByTray 2 8"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4
+		Command "+STOTrayExecByTray 1 2"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x5
+		Command "+STOTrayExecByTray 2 3"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x5
+		Command "+STOTrayExecByTray 1 3"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x6
+		Command "+STOTrayExecByTray 2 4"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x6
+		Command "+STOTrayExecByTray 1 4"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x34
+		Command screenshot_jpg
+	}
+
+	KeyBind
+	{
+		Key 0x802
+	}
+
+	KeyBind
+	{
+		Key 0x31
+		Command "+STOTrayExecByTray 0 9"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x2c
+		Command ++ShowGameUI
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x30
+		Command "+STOTrayExecByTray 1 6"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x15
+		Command "+STOTrayExecByTray 1 7"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x14
+		Command "+STOTrayExecByTray 1 5"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x31
+		Command "+STOTrayExecByTray 2 9"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x23
+		Command "+STOTrayExecByTray 1 8"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x31
+		Command "+STOTrayExecByTray 1 9"
+	}
+
+	KeyBind
+	{
+		Key 0x27
+		Command startChatReply
+	}
+
+	KeyBind
+	{
+		Key 0x802+0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4
+		Command "+STOTrayExecByTray 2 2"
+	}
+
+	KeyBind
+	{
+		Key 0x26
+		Command Missions
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x30
+		Command "+STOTrayExecByTray 2 6"
+	}
+
+	KeyBind
+	{
+		Key 0x4c
+		Command CrewAssignments
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x14
+		Command "+STOTrayExecByTray 2 5"
+	}
+
+	KeyBind
+	{
+		Key 0x21
+		Command +turnright
+	}
+
+	KeyBind
+	{
+		Key 0x1f
+		Command +turnleft
+	}
+
+	KeyBind
+	{
+		Key 0x13
+		Command +right
+	}
+
+	KeyBind
+	{
+		Key 0x4f
+		Command Inventory
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x1e
+		Command ++walk
+	}
+
+	KeyBind
+	{
+		Key 0x48
+		Command People
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x58
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xa
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x9
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x8
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x7
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x6
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x5
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x2
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xb
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xa
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x8
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x9
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x7
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x3
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4d
+		Command DutyOfficer
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xb
+	}
+
+	KeyBind
+	{
+		Key 0x4b
+		Command Missions
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0x24
+	}
+
+	KeyBind
+	{
+		Key 0x47
+		Command Map
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0xb
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xf
+	}
+
+	KeyBind
+	{
+		Key 0x8
+	}
+
+	KeyBind
+	{
+		Key 0x7
+	}
+
+	KeyBind
+	{
+		Key 0x9
+	}
+
+	KeyBind
+	{
+		Key 0xa
+	}
+
+	KeyBind
+	{
+		Key 0x4d
+	}
+
+	KeyBind
+	{
+		Key 0x49
+	}
+
+	KeyBind
+	{
+		Key 0x52
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4f
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x50
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x51
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4b
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4c
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4d
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x47
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x48
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4f
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x50
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x51
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4b
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4c
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x47
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x2c
+		Command HolsterToggle
+	}
+
+	KeyBind
+	{
+		Key 0x10
+		Command SwitchActiveWeapon
+	}
+
+	KeyBind
+	{
+		Key 0xf9
+		Command ++autoforward
+		Secondary 1
+	}
+
+	KeyBind
+	{
+		Key 0xf0
+	}
+
+	KeyBind
+	{
+		Key 0xef
+	}
+}
+
+Binds
+{
+	Profile Stospacegameplay
+
+	KeyBind
+	{
+		Key 0x803+0x58
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x802+0xb7
+	}
+
+	KeyBind
+	{
+		Key 0xb7
+	}
+
+	KeyBind
+	{
+		Key 0x802
+	}
+
+	KeyBind
+	{
+		Key 0xe
+	}
+
+	KeyBind
+	{
+		Key 0xf0
+	}
+
+	KeyBind
+	{
+		Key 0xef
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xf
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2c
+	}
+
+	KeyBind
+	{
+		Key 0xb
+	}
+
+	KeyBind
+	{
+		Key 0x7
+	}
+
+	KeyBind
+	{
+		Key 0x8
+	}
+
+	KeyBind
+	{
+		Key 0x9
+	}
+
+	KeyBind
+	{
+		Key 0xa
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xb
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x7
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x8
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x9
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xa
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xb
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x2
+		Command "+STOTrayExecByTray 3 7"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x3
+		Command "+STOTrayExecByTray 3 0"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4
+		Command "+STOTrayExecByTray 3 1"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x5
+		Command "+STOTrayExecByTray 3 2"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x6
+		Command "+STOTrayExecByTray 3 8"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x7
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x8
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x9
+	}
+
+	KeyBind
+	{
+		Key 0x803+0xa
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4f
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x50
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x51
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4b
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4c
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4d
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x47
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x48
+		Command People
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4f
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x50
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x51
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4b
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4c
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x4d
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x47
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x48
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x3
+		Command "+STOTrayExecByTray 0 0"
+	}
+
+	KeyBind
+	{
+		Key 0x4
+		Command "+STOTrayExecByTray 0 1"
+	}
+
+	KeyBind
+	{
+		Key 0x5
+		Command "+STOTrayExecByTray 0 2"
+	}
+
+	KeyBind
+	{
+		Key 0x14
+		Command "+STOTrayExecByTray 0 3"
+	}
+
+	KeyBind
+	{
+		Key 0x30
+		Command "+STOTrayExecByTray 0 4"
+	}
+
+	KeyBind
+	{
+		Key 0x23
+		Command "+STOTrayExecByTray 0 5"
+	}
+
+	KeyBind
+	{
+		Key 0x31
+		Command "+STOTrayExecByTray 0 6"
+	}
+
+	KeyBind
+	{
+		Key 0x2
+		Command "+STOTrayExecByTray 0 7"
+	}
+
+	KeyBind
+	{
+		Key 0x6
+		Command "+STOTrayExecByTray 0 8"
+	}
+
+	KeyBind
+	{
+		Key 0x15
+		Command "+STOTrayExecByTray 0 9"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x3
+		Command "+STOTrayExecByTray 1 0"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4
+		Command "+STOTrayExecByTray 1 1"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x5
+		Command "+STOTrayExecByTray 1 2"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x14
+		Command "+STOTrayExecByTray 1 3"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x30
+		Command "+STOTrayExecByTray 1 4"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x23
+		Command "+STOTrayExecByTray 1 5"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x31
+		Command "+STOTrayExecByTray 1 6"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2
+		Command "+STOTrayExecByTray 1 7"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x6
+		Command "+STOTrayExecByTray 1 8"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x15
+		Command "+STOTrayExecByTray 1 9"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x3
+		Command "+STOTrayExecByTray 2 0"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x4
+		Command "+STOTrayExecByTray 2 1"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x5
+		Command "+STOTrayExecByTray 2 2"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x14
+		Command "+STOTrayExecByTray 2 3"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x30
+		Command "+STOTrayExecByTray 2 4"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x23
+		Command "+STOTrayExecByTray 2 5"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x31
+		Command "+STOTrayExecByTray 2 6"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2
+		Command "+STOTrayExecByTray 2 7"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x6
+		Command "+STOTrayExecByTray 2 8"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x15
+		Command "+STOTrayExecByTray 2 9"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x14
+		Command "+STOTrayExecByTray 3 3"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x30
+		Command "+STOTrayExecByTray 3 4"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x23
+		Command "+STOTrayExecByTray 3 5"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x31
+		Command "+STOTrayExecByTray 3 6"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x15
+		Command "+STOTrayExecByTray 3 9"
+	}
+
+	KeyBind
+	{
+		Key 0x2c
+		Command "+STOTrayExecByTray 6 0$$+STOTrayExecByTray 6 1$$+STOTrayExecByTray 6 2$$+STOTrayExecByTray 6 3$$+STOTrayExecByTray 6 4$$+STOTrayExecByTray 6 5$$+STOTrayExecByTray 6 6$$+STOTrayExecByTray 6 7$$+STOTrayExecByTray 6 8$$+STOTrayExecByTray 6 9$$+STOTrayExecByTray 6 8$$+STOTrayExecByTray 6 7$$+STOTrayExecByTray 6 6$$+STOTrayExecByTray 6 5$$+STOTrayExecByTray 6 4$$+STOTrayExecByTray 6 3$$+STOTrayExecByTray 6 2$$+STOTrayExecByTray 6 1$$+STOTrayExecByTray 6 0"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x22
+		Command "+STOTrayExecByTray 5 0$$+STOTrayExecByTray 5 1$$+STOTrayExecByTray 5 2$$+STOTrayExecByTray 5 3$$+STOTrayExecByTray 5 4$$+STOTrayExecByTray 5 5$$+STOTrayExecByTray 5 6$$+STOTrayExecByTray 5 7$$+STOTrayExecByTray 5 8$$+STOTrayExecByTray 5 9$$+STOTrayExecByTray 5 8$$+STOTrayExecByTray 5 7$$+STOTrayExecByTray 5 6$$+STOTrayExecByTray 5 5$$+STOTrayExecByTray 5 4$$+STOTrayExecByTray 5 3$$+STOTrayExecByTray 5 2$$+STOTrayExecByTray 5 1$$+STOTrayExecByTray 5 0"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x22
+		Command "+STOTrayExecByTray 4 0$$+STOTrayExecByTray 4 1$$+STOTrayExecByTray 4 2$$+STOTrayExecByTray 4 3$$+STOTrayExecByTray 4 4$$+STOTrayExecByTray 4 5$$+STOTrayExecByTray 4 6$$+STOTrayExecByTray 4 7$$+STOTrayExecByTray 4 8$$+STOTrayExecByTray 4 9$$+STOTrayExecByTray 4 8$$+STOTrayExecByTray 4 7$$+STOTrayExecByTray 4 6$$+STOTrayExecByTray 4 5$$+STOTrayExecByTray 4 4$$+STOTrayExecByTray 4 3$$+STOTrayExecByTray 4 2$$+STOTrayExecByTray 4 1$$+STOTrayExecByTray 4 0"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4f
+		Command Inventory
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x50
+		Command CharacterStatus
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x51
+		Command ShowTrayPowers
+	}
+
+	KeyBind
+	{
+		Key 0x26
+		Command Missions
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4b
+		Command Missions
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4c
+		Command CrewAssignments
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x4d
+		Command DutyOfficer
+	}
+
+	KeyBind
+	{
+		Key 0x47
+		Command Map
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x47
+		Command Map
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x48
+		Command FleetWindow
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x49
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x52
+	}
+
+	KeyBind
+	{
+		Key 0x22
+		Command InteractWindow
+	}
+
+	KeyBind
+	{
+		Key 0x2f
+		Command Target_Enemy_Next
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2f
+		Command Target_Enemy_Near
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x2f
+		Command Target_Friend_Next
+	}
+
+	KeyBind
+	{
+		Key 0x28
+		Command startChatReply
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x21
+		Command "++showfps $$ ++netgraph"
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x2c
+		Command ++ShowGameUI
+	}
+
+	KeyBind
+	{
+		Key 0x803+0x34
+		Command screenshot_ui_jpg
+	}
+
+	KeyBind
+	{
+		Key 0x24
+	}
+
+	KeyBind
+	{
+		Key 0x11
+	}
+
+	KeyBind
+	{
+		Key 0x13
+	}
+
+	KeyBind
+	{
+		Key 0x1f
+		Command +left
+	}
+
+	KeyBind
+	{
+		Key 0x21
+		Command +right
+	}
+
+	KeyBind
+	{
+		Key 0x20
+		Command "throttleadjust -.25"
+	}
+
+	KeyBind
+	{
+		Key 0x10
+		Command +invertibleup
+	}
+
+	KeyBind
+	{
+		Key 0x1e
+		Command +invertibledown
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x1e
+		Command FullImpulseToggle
+	}
+
+	KeyBind
+	{
+		Key 0x2d
+		Command ScanForClickies
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x2d
+		Command ScanForClickies
+	}
+
+	KeyBind
+	{
+		Key 0x2e
+		Command "throttleset 0.0"
+	}
+
+	KeyBind
+	{
+		Key 0x802+0x39
+		Command FireMines
+	}
+
+	KeyBind
+	{
+		Key 0xf
+		Command ++autoforward
+	}
+
+	KeyBind
+	{
+		Key 0xf9
+		Command ++autoforward
+	}
+
+	KeyBind
+	{
+		Key 0x802+0xf
+		Command ++SetFollow
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x20
+		Command "throttleset 0.5"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0x12
+		Command "throttleset 100"
+	}
+
+	KeyBind
+	{
+		Key 0xff
+		Command "throttleadjust .25"
+	}
+
+	KeyBind
+	{
+		Key 0xfe
+		Command "throttleadjust -.25"
+	}
+
+	KeyBind
+	{
+		Key 0x4f
+		Command "StatsPreset_Load Preset_1"
+	}
+
+	KeyBind
+	{
+		Key 0x53
+		Command "StatsPreset_Load Preset_2"
+	}
+
+	KeyBind
+	{
+		Key 0x51
+		Command "StatsPreset_Load Preset_3"
+	}
+
+	KeyBind
+	{
+		Key 0x52
+		Command "StatsPreset_Load Preset_4"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xc8
+		Command "StatsPreset_Load Preset_1"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xcb
+		Command "StatsPreset_Load Preset_2"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xcd
+		Command "StatsPreset_Load Preset_3"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xd0
+		Command "StatsPreset_Load Preset_4"
+	}
+
+	KeyBind
+	{
+		Key 0x50
+		Command "+power_exec Reroute_Shields_Forward"
+	}
+
+	KeyBind
+	{
+		Key 0x4b
+		Command "+power_exec Reroute_Shields_Left"
+	}
+
+	KeyBind
+	{
+		Key 0x4c
+		Command "+power_exec Reroute_Shields_Rear"
+	}
+
+	KeyBind
+	{
+		Key 0x4d
+		Command "+power_exec Reroute_Shields_Right"
+	}
+
+	KeyBind
+	{
+		Key 0x48
+		Command "+power_exec Distribute_Shields"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xff
+		Command "AdjustCamDistance 5"
+	}
+
+	KeyBind
+	{
+		Key 0x801+0xfe
+		Command "AdjustCamDistance -5"
+	}
+}
+
+Plooseui
+{
+
+	Persistedwindow
+	{
+		Pchname Chat_Root
+		Uitime 705449386
+		Bfwindows  1, 0, 0, 0, 0, 0, 0, 0
+	}
+
+	Hudoptions
+	{
+		Region Ground
+
+		Showoverhead
+		{
+			Showenemy OVERHEAD_ENTITY_FLAG_MOUSE_OVER_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_NAME | OVERHEAD_ENTITY_FLAG_MOUSE_OVER_LIFE | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_TARGETED_RETICLE
+			Showfriendlynpc OVERHEAD_ENTITY_FLAG_MOUSE_OVER_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_NAME | OVERHEAD_ENTITY_FLAG_MOUSE_OVER_LIFE | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_TARGETED_RETICLE
+			Showplayer OVERHEAD_ENTITY_FLAG_MOUSE_OVER_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_NAME | OVERHEAD_ENTITY_FLAG_MOUSE_OVER_LIFE | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_TARGETED_RETICLE
+		}
+		Traymode 5
+		Version 1
+	}
+
+	Hudoptions
+	{
+		Region Space
+
+		Showoverhead
+		{
+			Showenemy OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODENAME | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODELIFE | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODERETICLE
+			Showfriendlynpc OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODENAME | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODELIFE | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODERETICLE
+			Showfriends OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE
+			Showteam OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE
+			Showsupergroup OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE
+			Showpet OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODENAME | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODELIFE | OVERHEAD_ENTITY_FLAG_TARGETED_POWERMODERETICLE
+			Showplayer OVERHEAD_ENTITY_FLAG_ALWAYS_NAME | OVERHEAD_ENTITY_FLAG_TARGETED_LIFE | OVERHEAD_ENTITY_FLAG_ALWAYS_RETICLE
+		}
+		Traymode 1052992
+		Powerlevelsmode 1
+		Version 1
+	}
+	Showastrometrics 1
+}
+Earegionscales Ground 1.100000
+Earegionscales Space 0.142535
+Earegionscales SectorSpace 0.055799
+Pchusercolorpalette Federation
+Ikeybindsversion 4
+Enablemoveequipment 1
+Enableddoubletaptorollspace 1
+}
