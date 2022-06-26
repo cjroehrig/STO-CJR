@@ -28,7 +28,7 @@ so you have a variety of Contribution possibilities.
 3. Make some coin (EC) and get stocked.  You should have at least a couple hundred thousand EC to buy supplies, etc without breaking the bank.  If you're a 
 [Recruit](https://sto.fandom.com/wiki/Recruitment_event)
 (Temporal/Delta/etc), completing the Klingon War chain will get you 2.5 million and you'll be rolling.  Then go stock up on the main Commodities.
-(See [Commodities](#commodities) below).
+(See [Commodities](#-Commodities) below).
 
 
 
@@ -48,8 +48,8 @@ To start with, you'll get the bulk of your blue and purples from the repeatable 
 along with some one-time rewards from completing chains.
 
 The basic cycle of assignments with their cooldowns (CD) goes like this:
-|assignment										|duration|cooldown| purpose
-|----------										|-------:|-------:| -----------
+|assignment										|duration|cooldown|purpose
+|----------										|-------:|-------:|-----------
 |[R&D Research Projects](#rnd)					|20h	|none	| to level your R&D Crafting
 |[SFA Personnel Cadres](#cadre) (4)				|?		|96h	| to give whites for grinding 
 |[SFA Cultural Exchange](#cultural) (3)			|?		|68h	| to give whites for grinding
@@ -347,7 +347,7 @@ When committing an officer, it is much more important to match at least one good
 |Wadi Officer Exchange			|Congenial, Tactful			|Aggressive, Unruly
 
 
-## Commodities {#commodities}
+## Commodities
 Here is where to go for the best prices and enough quantities to get started.  You'll need to replenish (especially Provisions) regularly:
 
 |count	|commodity						|price ea		|total
