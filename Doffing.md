@@ -50,7 +50,7 @@ along with some one-time rewards from completing chains.
 The basic cycle of assignments with their cooldowns (CD) goes like this:
 |assignment										|duration|cooldown|purpose
 |----------										|-------:|-------:|-----------
-|[R&D Research Projects](#r-d-research-projects)					|20h	|none	| to level your R&D Crafting
+|[R&D Research Projects](#rd-research-projects)					|20h	|none	| to level your R&D Crafting
 |[SFA Personnel Cadres](#sfa-personnel-cadres) (4)				|?		|96h	| to give whites for grinding 
 |[SFA Cultural Exchange](#sfa-cultural-exchange) (3)			|?		|68h	| to give whites for grinding
 |[Resettle Colonists](#resettle-colonists)				|4h		|28h	| to give Colonists to complete your Colonization Chains
