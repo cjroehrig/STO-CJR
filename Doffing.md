@@ -28,7 +28,7 @@ so you have a variety of Contribution possibilities.
 3. Make some coin (EC) and get stocked.  You should have at least a couple hundred thousand EC to buy supplies, etc without breaking the bank.  If you're a 
 [Recruit](https://sto.fandom.com/wiki/Recruitment_event)
 (Temporal/Delta/etc), completing the Klingon War chain will get you 2.5 million and you'll be rolling.  Then go stock up on the main Commodities.
-(See [Commodities](#-Commodities) below).
+(See [Commodities](#commodities) below).
 
 
 
@@ -50,15 +50,15 @@ along with some one-time rewards from completing chains.
 The basic cycle of assignments with their cooldowns (CD) goes like this:
 |assignment										|duration|cooldown|purpose
 |----------										|-------:|-------:|-----------
-|[R&D Research Projects](#rnd)					|20h	|none	| to level your R&D Crafting
-|[SFA Personnel Cadres](#cadre) (4)				|?		|96h	| to give whites for grinding 
-|[SFA Cultural Exchange](#cultural) (3)			|?		|68h	| to give whites for grinding
-|[Resettle Colonists](#resettle)				|4h		|28h	| to give Colonists to complete your Colonization Chains
-|[Colonization Chain](#colonization) 1-7		|20h	|none	| to unlock the Support assignments
-|[Support Colonization Efforts in \<node\>](#support)				|4h		|28h	| to give you Refugees for Asylums and a Purple on crit
-|[Asylums](#asylum)								|20h	|44h	| to give you blues/purples
-|[Consular Authority Chain](#consular) 1-4		|varies	|none	| to unlock Consular Officer Exchange
-|[Consular Officer Exchange](#exchange)			|varies	|none	| to exchange your greens/blues/purples
+|[R&D Research Projects](#r&d-research-projects)					|20h	|none	| to level your R&D Crafting
+|[SFA Personnel Cadres](#sfa-personnel-cadres) (4)				|?		|96h	| to give whites for grinding 
+|[SFA Cultural Exchange](#sfa-cultural-exchange) (3)			|?		|68h	| to give whites for grinding
+|[Resettle Colonists](#resettle-colonists)				|4h		|28h	| to give Colonists to complete your Colonization Chains
+|[Colonization Chain](#colonization-chain) 1-7		|20h	|none	| to unlock the Support assignments
+|[Support Colonization Efforts](#support-colonization-efforts)				|4h		|28h	| to give you Refugees for Asylums and a Purple on crit
+|[Asylums](#asylums)								|20h	|44h	| to give you blues/purples
+|[Consular Authority Chain](#consular-authority-chain) 1-4		|varies	|none	| to unlock Consular Officer Exchange
+|[Consular Officer Exchange](#consular-officer-exchange)			|varies	|none	| to exchange your greens/blues/purples
 
 NB: All cooldowns are taken from the START of the assignment.
 
@@ -68,7 +68,7 @@ It is tempting to buy greens from
 but beware that those are 
 [ungrindable](#grinding)
 (but the non-civilians can be
-[Exchanged](#exchange))
+[exchanged](#consular-officer-exchange))
 
 
 ## Doff Roster and Culling
@@ -100,7 +100,7 @@ and grinding whites at Fleet can also take from the Overflow (but not the Person
 
 Once you have at least all greens, you can bulk-grind whites without looking at them, so that is an important secondary goal.
 
-## Grinding and Ungrindable Doffs {#grinding}
+## Grinding
 This isn't the usual sense of grinding, but rather about grinding up unwanted doffs to produce for other (better or worse) doffs or fleet credits.  (If that sounds grim, it's just a metaphor for e.g. sending 5 substandard doffs into workaday meat-grinder missions in exchange for a better 5X employee).
 
 There are several ways of grinding unwanted doffs:
@@ -146,7 +146,7 @@ These are ones I've found to be ungrindable:
 Ungrindable non-civilian doffs can still be disposed of usefully via the 
 [Consular Officer Exchange](#consular) assignments.  Ungrindable civilians and whites can only be Dismissed or traded (if they are unbound).
 
-## Sector Blocks {#sectors}
+## Sector Blocks
 
 Sector 
 [assignments](https://sto.fandom.com/wiki/Assignment)
@@ -231,14 +231,14 @@ You'll need a small supply of the common R&D Materials which you can get from Sc
 You'll want at least 3 Research Lab Scientists to start and 5 or 6 later on.  If you're a Recruit (Delta, etc), don't forget you can claim a quick reward
 after reaching level 1 of any R&D school that will give you a set of R&D doffs including a blue Research Lab Scientist.
 
-### SFA Personnel Cadres {#cadre}
+### SFA Personnel Cadres
 Found at the Personnel Officer in Sol Starfleet Academy.
 
-### SFA Cultural Exchange {#cultural}
+### SFA Cultural Exchange
 Found at in Sol Starfleet Academy at the three XXX
 (Vulcan, Tellarite, Andorian).
 
-### Colonization Chain {#colonization}
+### Colonization Chain
 [https://sto.fandom.com/wiki/Assignment_chain:_Colonization](https://sto.fandom.com/wiki/Assignment_chain:_Colonization)
 
 Completing this chain awards a Blue and then a Purple on crit (from the same specialization), but more importantly, unlocks a repeatable assignment
@@ -253,14 +253,14 @@ To start a chain, travel in Sector Space to an
 
 The chain starts with the "Colony Site Survey in the \<node\>" assignment.
 If it doesn't appear, you may have to wait for the next Sector Update (shown on the left side of the panel).
-(See [Sector Blocks](#sectors) above).
+(See [Sector Blocks](#sector-blocks) above).
 	
 It'll take a week or so to complete the chain for each node and there are 14 nodes, so look at the wiki to see which blue/purples you want to get first.
 The final (7/7) 
 ["Renown"](https://sto.fandom.com/wiki/Assignment:_Renown)
 assignment awards the blue doffs:
 
-#### Support Colonization Efforts in \<node\> {#support}
+#### Support Colonization Efforts
 The unlocked repeatable assignment awards a Refugee (and a purple on crit):
 ["Support Colonization Efforts in \<node\>"](https://sto.fandom.com/wiki/Assignment:_Support_Colonization_Efforts) (Fed Version).
 These Refugees are used for the Asylum assignments.
@@ -271,14 +271,14 @@ NOTES:
 	- You don't have to succeed at an assignment to unlock the next one in the chain.
 	- You get repeat purples on crit and they are grindable so this can be a good source of blues.
 
-### Resettle Colonists {#resettle}
+### Resettle Colonists
 [https://sto.fandom.com/wiki/Assignment:_Resettle_Colonists](https://sto.fandom.com/wiki/Assignment:_Resettle_Colonists)
 
 A limiting factor for the Colonization chain is getting enough colonists to proceed.  You need three for step 2, four for step 3 and five for step 5, so make sure you do the Resettle Colonists assignment whenever it comes off of cooldown.   You should find it readily in most sectors when it is available.
 
 Once all your Colonization chains are completed, there's no more use for these (although they are civilian whites than can be grinded for Fleet Credits).
 
-### Asylums {#asylum}
+### Asylums
 [https://sto.fandom.com/wiki/Assignment:_Asylum_(Rare)](https://sto.fandom.com/wiki/Assignment:_Asylum_(Rare))
 
 [https://sto.fandom.com/wiki/Assignment:_Asylum_(Very_Rare)](https://sto.fandom.com/wiki/Assignment:_Asylum_(Very_Rare))
@@ -289,7 +289,7 @@ Once the Colonization chain is complete, you'll unlock the final
 Here are the available Asylum assignments and the desireable traits.
 They are generally matched by the same species as the Asylum.
 The location where they can be found is usually the entire sector block
-(see [Sector Blocks](#sectors) above), but some can also be found inside specific systems (e.g. Sol and Vulcan).
+(see [Sector Blocks](#sector-blocks) above), but some can also be found inside specific systems (e.g. Sol and Vulcan).
 (NB: the Sirius sector block is the one containing Vulcan sector).
 
 These assignments can be found under either the Current Map (Sector assignments), as well as the Operations Department Head.
@@ -312,7 +312,7 @@ You'll usually want to match the Refugee to the assignment to get the best chanc
 However, some assignments are fairly rare (e.g. Tellar) while the
 Tellarite Refugees are fairly common, so if you're running out of roster space, it might be worth sending them on a non-optimal Asylum assignment.
 
-### Consular Authority Chain {#consular}
+### Consular Authority Chain
 https://sto.fandom.com/wiki/Assignment_chain:_Consular_Authority
 
 There are four chains and they are all found in the Alpha quadrant sector blocks and sometimes in specific locations near border intersections in those blocks.
@@ -326,7 +326,7 @@ _NB: IMPORTANT!_   The final step 4/4 requires up to 4 Advisors or Diplomats whi
 When you're doing this chain, keep an eye out for expendable white Advisors/Diplomats you can use for this.
 In a pinch, buy one from the Exchange (use e.g. your Azura trade freigher).
 
-### Consular Officer Exchange {#exchange}
+### Consular Officer Exchange
 
 [https://sto.fandom.com/wiki/Assignment:_Officer_Exchange_Program](https://sto.fandom.com/wiki/Assignment:_Officer_Exchange_Program)
 
