@@ -50,7 +50,7 @@ along with some one-time rewards from completing chains.
 The basic cycle of assignments with their cooldowns (CD) goes like this:
 |assignment										|duration|cooldown|purpose
 |----------										|-------:|-------:|-----------
-|[R&D Research Projects](#r&d-research-projects)					|20h	|none	| to level your R&D Crafting
+|[R&D Research Projects](#r-d-research-projects)					|20h	|none	| to level your R&D Crafting
 |[SFA Personnel Cadres](#sfa-personnel-cadres) (4)				|?		|96h	| to give whites for grinding 
 |[SFA Cultural Exchange](#sfa-cultural-exchange) (3)			|?		|68h	| to give whites for grinding
 |[Resettle Colonists](#resettle-colonists)				|4h		|28h	| to give Colonists to complete your Colonization Chains
@@ -66,7 +66,7 @@ NB: All cooldowns are taken from the START of the assignment.
 It is tempting to buy greens from
 [Lt. Ferra](https://sto.fandom.com/wiki/Ferra),
 but beware that those are 
-[ungrindable](#grinding)
+[ungrindable](#ungrindable-doffs)
 (but the non-civilians can be
 [exchanged](#consular-officer-exchange))
 
@@ -115,17 +115,23 @@ There are also generic "Common Duty Officer" contributions, but they only award 
 
 Once you have at least 2 green doffs for each specialization, it gets much simpler and you can just use the Select All button to grind away whites.
 
-### 2. Downgrinding ("Exchange Officers" - SFA Personnel Officer)
+### 2. Downgrinding
+The "Exchange Officers" missions from your
+[SFA Personnel Officer](https://sto.fandom.com/wiki/Personnel_Officer_%28Starfleet_Academy%29) (Fed).
+
 This is one way to get rid of greens/blues/purples you no longer want.  You get 3 of the lesser quality, free and immediately.
-	https://sto.fandom.com/wiki/Personnel_Officer_%28Starfleet_Academy%29
 If you need Fleet Credits, one Purple will downgrind into 27 whites worth 8100 Fleet Credits.
 
 Another option is to exchange them (possibly upgrading) via a
-[Consular Officer Exchange](#consular), but this only works for non-civilians.
+[Consular Officer Exchange](#consular-officer-exchange), but this 
+only works for non-civilians.
 
 Finally, if they are blue or purple you may want to send them to an alt or sell on the Exchange instead of downgrinding them.
 
-### 3. Upgrinding ("Reassignment" - SFA Personnel Officer)
+### 3. Upgrinding
+The "Reassignment" missions from your
+[SFA Personnel Officer](https://sto.fandom.com/wiki/Personnel_Officer_%28Starfleet_Academy%29) (Fed).
+
 This converts 5 of your unwanted doffs plus some dilithium for one of the next higher quality.   It is not usually worth the cost in dilithium and lost Fleet Credits.
 
 ### Ungrindable Doffs
@@ -144,7 +150,7 @@ These are ones I've found to be ungrindable:
 - The blue Astrometrics Scientist Helna awarded by the final "Renown" mission of the Arucanis Colonization chain.
 
 Ungrindable non-civilian doffs can still be disposed of usefully via the 
-[Consular Officer Exchange](#consular) assignments.  Ungrindable civilians and whites can only be Dismissed or traded (if they are unbound).
+[Consular Officer Exchange](#consular-officer-exchange) assignments.  Ungrindable civilians and whites can only be Dismissed or traded (if they are unbound).
 
 ## Sector Blocks
 
