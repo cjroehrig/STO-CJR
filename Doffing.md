@@ -223,7 +223,7 @@ so you'll always need to check there as well as the Current Map.
 
 - Some assignments have 100% Success regardless of the doffs.  Don't use the default assigned doffs; select your lowest-quality doffs for those and reserve the higher-quality doffs for where it matters.   Keep an eye on the success chance though; you may need to assign one or two higher-quality doffs to keep it at 100%).
 
-### R&D Research Projects{#rnd}
+### R&D Research Projects
 Once you hit level 15, you'll unlock R&D.  You should do your Research Projects daily to level up your schools.   The Research Project is the bottom assignment in each school, can be repeated every 20h, and gives 5000 or 6000 of Research XP.  You can do up to 3 Research Projects per school each day (but you'll need to unlock the slots).
 
 Your first focus will be on unlocking 3 R&D slots. See the R&D Progress tab for unlock requirement (they go pretty quickly).   If you are a Recruit (Temporal/Delta/etc), be aware that you will soon get a Token to level up a school instantly to level 10:
