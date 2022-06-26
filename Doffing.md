@@ -57,7 +57,7 @@ The basic cycle of assignments with their cooldowns (CD) goes like this:
 |[Colonization Chain](#colonization) 1-7		|20h	|none	| to unlock the Support assignments
 |[Support Colonization Efforts in \<node\>](#support)				|4h		|28h	| to give you Refugees for Asylums and a Purple on crit
 |[Asylums](#asylum)								|20h	|44h	| to give you blues/purples
-|[Consular Chain](#consular) 1-4				|varies	|none	| to unlock Consular Officer Exchange
+|[Consular Authority Chain](#consular) 1-4		|varies	|none	| to unlock Consular Officer Exchange
 |[Consular Officer Exchange](#exchange)			|varies	|none	| to exchange your greens/blues/purples
 
 NB: All cooldowns are taken from the START of the assignment.
@@ -306,12 +306,35 @@ You'll usually want to match the Refugee to the assignment to get the best chanc
 However, some assignments are fairly rare (e.g. Tellar) while the
 Tellarite Refugees are fairly common, so if you're running out of roster space, it might be worth sending them on a non-optimal Asylum assignment.
 
-### Consular Chain {#consular}
-These are found in the Alpha quadrant. XXX.
-
-#### Consular Officer Exchange {#exchange}
+### Consular Authority Chain {#consular}
+	https://sto.fandom.com/wiki/Assignment_chain:_Consular_Authority
+There are four chains and they are all found in the Alpha quadrant sector blocks and sometimes in specific locations near border intersections in those blocks.
 
 As a Fed, you'll want to focus on the Karemman one first since you'll end up with a lot of human doffs with Honorable and Teamwork traits which are perfect for critting the Karemman Officer Exchange mission.
+
+Note that the individual steps fall in different commendation categories and so will fall under different Department Heads (e.g. Security, Engineering), so make sure you are looking under the correct Department Head.
+
+_NB: IMPORTANT!_   The final step 4/4 requires up to 4 Advisors or Diplomats which will **BE REMOVED FROM YOUR ROSTER**.
+(XXX It appears that the first chain requires four XXX, but subsequent chains only require 1).
+When you're doing this chain, keep an eye out for expendable white Advisors/Diplomats you can use for this.
+In a pinch, buy one from the Exchange (use e.g. your Azura trade freigher).
+
+#### Consular Officer Exchange {#exchange}
+This is the repeatable assignment that is unlocked by the Consular Authority Chain.  This takes any non-civilian doff and exchanges it for one from the named species, with a fair chance at critting and improving the quality.
+
+When committing an officer, it is much more important to match at least one good trait than avoiding bad traits.
+
+|assignment						|good traits				|bad traits|
+|----------						|------------				|----------|
+|**Federation**
+|Bajoran Officer Exchange		|Spiritual					|Logical, Unruly
+|Paradan Officer Exchange		|Logical, Unscrupulous		|Emotional, Unruly
+|Karemman Officer Exchange		|Honorable, Teamwork		|Aggressive, Unruly
+|Cardassian Officer Exchange	|Efficient, Eidetic			|Emotional, Unruly
+|**KDF**|
+|Dosi Officer Exchange			|Aggressive, Cunning		|Tactful, Honorable
+|Ferasan Officer Exchange		|Aggressive, Unruly			|Logical, Peaceful
+|Wadi Officer Exchange			|Congenial, Tactful			|Aggressive, Unruly
 
 
 ## Commodities {#commodities}
