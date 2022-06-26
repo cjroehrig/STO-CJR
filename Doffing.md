@@ -239,7 +239,7 @@ Found at in Sol Starfleet Academy at the three XXX
 (Vulcan, Tellarite, Andorian).
 
 ### Colonization Chain {#colonization}
-https://sto.fandom.com/wiki/Assignment_chain:_Colonization
+[https://sto.fandom.com/wiki/Assignment_chain:_Colonization](https://sto.fandom.com/wiki/Assignment_chain:_Colonization)
 
 Completing this chain awards a Blue and then a Purple on crit (from the same specialization), but more importantly, unlocks a repeatable assignment
 that rewards a Refugee which you'll need for the Asylum assignments.
@@ -272,11 +272,17 @@ NOTES:
 	- You get repeat purples on crit and they are grindable so this can be a good source of blues.
 
 ### Resettle Colonists {#resettle}
+[https://sto.fandom.com/wiki/Assignment:_Resettle_Colonists](https://sto.fandom.com/wiki/Assignment:_Resettle_Colonists)
+
 A limiting factor for the Colonization chain is getting enough colonists to proceed.  You need three for step 2, four for step 3 and five for step 5, so make sure you do the Resettle Colonists assignment whenever it comes off of cooldown.   You should find it readily in most sectors when it is available.
 
 Once all your Colonization chains are completed, there's no more use for these (although they are civilian whites than can be grinded for Fleet Credits).
 
 ### Asylums {#asylum}
+[https://sto.fandom.com/wiki/Assignment:_Asylum_(Rare)](https://sto.fandom.com/wiki/Assignment:_Asylum_(Rare))
+
+[https://sto.fandom.com/wiki/Assignment:_Asylum_(Very_Rare)](https://sto.fandom.com/wiki/Assignment:_Asylum_(Very_Rare))
+
 Once the Colonization chain is complete, you'll unlock the final
 "Support Colonization Efforts in \<node\>" assignment which awards a Refugee which is needed for the Asylum assignments.
 
@@ -307,7 +313,8 @@ However, some assignments are fairly rare (e.g. Tellar) while the
 Tellarite Refugees are fairly common, so if you're running out of roster space, it might be worth sending them on a non-optimal Asylum assignment.
 
 ### Consular Authority Chain {#consular}
-	https://sto.fandom.com/wiki/Assignment_chain:_Consular_Authority
+https://sto.fandom.com/wiki/Assignment_chain:_Consular_Authority
+
 There are four chains and they are all found in the Alpha quadrant sector blocks and sometimes in specific locations near border intersections in those blocks.
 
 As a Fed, you'll want to focus on the Karemman one first since you'll end up with a lot of human doffs with Honorable and Teamwork traits which are perfect for critting the Karemman Officer Exchange mission.
@@ -319,7 +326,10 @@ _NB: IMPORTANT!_   The final step 4/4 requires up to 4 Advisors or Diplomats whi
 When you're doing this chain, keep an eye out for expendable white Advisors/Diplomats you can use for this.
 In a pinch, buy one from the Exchange (use e.g. your Azura trade freigher).
 
-#### Consular Officer Exchange {#exchange}
+### Consular Officer Exchange {#exchange}
+
+[https://sto.fandom.com/wiki/Assignment:_Officer_Exchange_Program](https://sto.fandom.com/wiki/Assignment:_Officer_Exchange_Program)
+
 This is the repeatable assignment that is unlocked by the Consular Authority Chain.  This takes any non-civilian doff and exchanges it for one from the named species, with a fair chance at critting and improving the quality.
 
 When committing an officer, it is much more important to match at least one good trait than avoiding bad traits.
@@ -342,22 +352,22 @@ Here is where to go for the best prices and enough quantities to get started.  Y
 
 |count	|commodity						|price ea		|total
 |-----:	|---------						|--------:		|-----:
-||**Vulcan Sector: Andoria [Taryss]** |
+||**Vulcan Sector: Andoria [Taryss](https://sto.fandom.com/wiki/Taryss)** |
 |250	|Provisions						| 75			|18,750
 |20		|Communication Arrays			|150			| 3,000
-||**Vulcan Sector: Vulcan [Semek]**
+||**Vulcan Sector: Vulcan [Semek](https://sto.fandom.com/wiki/Semek)**
 250		|Medical Supplies				| 75			|18,750
 30		|Industrial Energy Cells		|300			| 9,000
-||**Fleet Embassy console [shuttle at Fleet Starbase transporter room]**
+||**[Fleet Embassy Shuttlebay](https://sto.fandom.com/wiki/Fleet_Embassy#Shuttlebay) console**
 |80		|Self-Sealing Stem Bolts		|600			|48,000
 |20		|Warp Coils						|600			|12,000
 |10		|Industrial Replicators			|600			| 6,000
 |10		|Seismic Stabilizers			|750			| 7,500
 |10		|Entertainment Provisions		|600			| 6,000
 |10		|Terraforming Systems			|900			| 9,000
-||**Earth Spacedock Commodities [Fhoss]**
+||**Earth Spacedock Commodities [Fhoss](https://sto.fandom.com/wiki/Fhoss)**
 |250	|Shield Generators				| 75			|18,750
-||**Sierra Sector: Starbase 39 [Commodities Broker]**
+||**Sierra Sector: Starbase 39 [Commodities Broker](https://sto.fandom.com/wiki/Commodities_Broker_(Starbase_39))**
 |10		|Astrometric Probes				|400			| 4,000
 |10		|Antigens						|400			| 4,000
 |10		|Water Purification Systems		|300			| 3,000
