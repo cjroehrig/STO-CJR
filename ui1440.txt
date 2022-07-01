@@ -2,14 +2,39 @@
 
 Eastoredpositions
 {
+	Pchname _Cell_Common_Endeavor_Tracker_0_Jail_Hud_Common
+	Eoffsetfrom 5
+	Fpercenty 0.406481
+	Fwidth 244.000000
+	Fheight 190.000000
+	Iversion 23
+	Chpriority 21
+	Uitime 707366503
+}
+
+Eastoredpositions
+{
 	Pchname _Cell_Common_Interact_Lowpriority_0_Jail_Hud_Common
 	Eoffsetfrom 5
-	Fpercenty 0.148148
+	Fpercenty 0.123564
 	Fwidth 244.000000
 	Fheight 130.000000
 	Iversion 23
-	Chpriority 25
-	Uitime 704742073
+	Chpriority 24
+	Uitime 709668764
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Common_Needorgreed_0_Jail_Hud_Common
+	Eoffsetfrom 3
+	Fpercentx 0.233594
+	Fpercenty 0.201356
+	Fwidth 275.000000
+	Fheight 90.000000
+	Iversion 23
+	Chpriority 24
+	Uitime 709668815
 }
 
 Eastoredpositions
@@ -28,37 +53,37 @@ Eastoredpositions
 {
 	Pchname _Cell_Common_Pause_0_Jail_Hud_Common
 	Eoffsetfrom 5
-	Fpercentx 0.404687
-	Fpercenty 0.203703
+	Fpercentx 0.428825
+	Fpercenty 0.205527
 	Fwidth 400.000000
 	Fheight 80.000000
 	Iversion 23
-	Chpriority 25
-	Uitime 704742126
+	Chpriority 24
+	Uitime 709668774
 }
 
 Eastoredpositions
 {
 	Pchname _Cell_Common_Personaltray_Big_0_Jail_Hud_System
 	Eoffsetfrom 5
-	Fpercentx 0.311146
+	Fpercentx 0.347691
 	Fwidth 403.000031
 	Fheight 160.000000
 	Iversion 11
 	Chpriority 24
-	Uitime 704766744
+	Uitime 709668753
 }
 
 Eastoredpositions
 {
 	Pchname _Cell_Common_Personaltray_Big_1_Jail_Hud_System
 	Eoffsetfrom 5
-	Fpercentx 0.120468
+	Fpercentx 0.205113
 	Fwidth 66.000000
 	Fheight 472.000061
 	Iversion 11
 	Chpriority 24
-	Uitime 704766764
+	Uitime 709668757
 }
 
 Eastoredpositions
@@ -71,6 +96,19 @@ Eastoredpositions
 	Iversion 11
 	Chpriority 21
 	Uitime 704755579
+}
+
+Eastoredpositions
+{
+	Pchname _Cell_Minicontact_Notification_0_Jail_Hud_Common
+	Eoffsetfrom 3
+	Fpercentx 0.232812
+	Fpercenty 0.399262
+	Fwidth 320.000000
+	Fheight 120.000000
+	Iversion 23
+	Chpriority 24
+	Uitime 709668823
 }
 
 Eastoredpositions
@@ -90,97 +128,97 @@ Eastoredpositions
 {
 	Pchname _Cell_Sys_Bridgecrew_0_Jail_Hud_System
 	Eoffsetfrom 5
-	Fpercentx 0.181979
-	Fpercenty 0.135555
+	Fpercentx 0.25041
+	Fpercenty 0.100255
 	Fwidth 674.000000
 	Fheight 64.000000
 	Iversion 11
 	Chpriority 24
-	Uitime 704766770
+	Uitime 709668761
 }
 
 Eastoredpositions
 {
 	Pchname _Cell_Sys_Powerlevels_0_Jail_Hud_System
 	Eoffsetfrom 3
-	Fpercentx 0.280729
+	Fpercentx 0.340234
 	Fwidth 103.000008
 	Fheight 170.000000
 	Iversion 11
-	Chpriority 25
-	Uitime 704742091
+	Chpriority 24
+	Uitime 709668789
 }
 
 Eastoredpositions
 {
 	Pchname _Cell_Sys_Shipstatus_0_Jail_Hud_System
 	Eoffsetfrom 3
-	Fpercentx 0.329688
+	Fpercentx 0.377344
 	Fwidth 160.000000
 	Fheight 195.000000
 	Iversion 11
-	Chpriority 25
-	Uitime 704742094
+	Chpriority 24
+	Uitime 709668784
 }
 
 Eastoredpositions
 {
 	Pchname _Cell_Sys_Throttle_0_Jail_Hud_System
 	Eoffsetfrom 3
-	Fpercentx 0.404686
+	Fpercentx 0.435156
 	Fwidth 39.000000
 	Fheight 175.000000
 	Iversion 11
-	Chpriority 25
-	Uitime 704742101
+	Chpriority 24
+	Uitime 709668793
 }
 
 Eastoredpositions
 {
 	Pchname _Cell_Sys_Weapons_0_Jail_Hud_System
 	Eoffsetfrom 3
-	Fpercentx 0.425
+	Fpercentx 0.45
 	Fwidth 129.000000
 	Fheight 143.000000
 	Iversion 11
 	Chpriority 24
-	Uitime 704766748
+	Uitime 709668796
 }
 
 Eastoredpositions
 {
 	Pchname Auction_Root
 	Eoffsetfrom 12
-	Fpercentx 0.028125
-	Fpercenty 0.061111
-	Fwidth 0.65
-	Fheight 0.65
+	Fpercentx 0.101954
+	Fpercenty 0.0826389
+	Fwidth 0.649218
+	Fheight 0.626851
 	Iversion 5
-	Uitime 705570050
+	Uitime 709666799
 }
 
 Eastoredpositions
 {
 	Pchname Bank_Root
 	Eoffsetfrom 10
-	Fpercentx 0.253643
-	Fpercenty 0.167592
+	Fpercentx 0.335416
+	Fpercenty 0.217592
 	Fwidth 530.000000
 	Fheight 542.000000
 	Iversion 4
-	Uitime 705598952
+	Uitime 705957092
 }
 
 Eastoredpositions
 {
 	Pchname Charactermenu_Map_Hud
-	Eoffsetfrom 10
-	Fpercentx 0.133854
-	Fpercenty 0.100925
+	Eoffsetfrom 5
+	Fpercentx 0.045312
+	Fpercenty 0.137962
 	Fwidth 0.7
 	Fheight 0.7
 	Iversion 3
-	Uitime 705441759
+	Uitime 709616125
 }
 
 Eastoredpositions
@@ -198,25 +236,25 @@ Eastoredpositions
 Eastoredpositions
 {
 	Pchname Charactermenu_Status_Hud
-	Eoffsetfrom 10
-	Fpercentx 0.036458
-	Fpercenty 0.064814
+	Eoffsetfrom 12
+	Fpercentx 0.0875595
+	Fpercenty 0.104861
 	Fwidth 890.000061
-	Fheight 746.000000
+	Fheight 744.000000
 	Iversion 5
-	Uitime 705478650
+	Uitime 709667338
 }
 
 Eastoredpositions
 {
 	Pchname Characterstatus_Rename_Root
 	Eoffsetfrom 5
-	Fpercentx 0.35677
-	Fpercenty 0.210185
+	Fpercentx 0.356771
+	Fpercenty 0.213426
 	Fwidth 550.000000
 	Fheight 1.000000
 	Iversion 1
-	Uitime 662114777
+	Uitime 705784450
 }
 
 Eastoredpositions
@@ -231,10 +269,10 @@ Eastoredpositions
 {
 	Pchname Chat_Root
 	Eoffsetfrom 3
-	Fwidth 597.000000
+	Fwidth 728.000000
 	Fheight 200.000000
 	Iversion 1
-	Uitime 704180026
+	Uitime 709668802
 }
 
 Eastoredpositions
@@ -252,12 +290,13 @@ Eastoredpositions
 Eastoredpositions
 {
 	Pchname Dutyofficerassignments_Root
-	Eoffsetfrom 10
-	Fpercentx 0.172395
-	Fpercenty 0.066666
-	Fheight 702.000061
+	Eoffsetfrom 12
+	Fpercentx 0.00979023
+	Fpercenty 0.202778
+	Fwidth 1142.000122
+	Fheight 700.000000
 	Iversion 1
-	Uitime 705641273
+	Uitime 709667331
 }
 
 Eastoredpositions
@@ -285,13 +324,13 @@ Eastoredpositions
 Eastoredpositions
 {
 	Pchname Fleet_Root
-	Eoffsetfrom 12
-	Fpercentx 0.084323
-	Fpercenty 0.123148
+	Eoffsetfrom 10
+	Fpercentx 0.124479
+	Fpercenty 0.130555
 	Fwidth 989.000061
 	Fheight 660.000000
 	Iversion 2
-	Uitime 705641593
+	Uitime 709615424
 }
 
 Eastoredpositions
@@ -333,25 +372,24 @@ Eastoredpositions
 Eastoredpositions
 {
 	Pchname Inventory_Inspect
-	Eoffsetfrom 3
-	Fpercentx 0.246354
-	Fpercenty 0.281481
+	Eoffsetfrom 12
+	Fpercentx 0.339583
+	Fpercenty 0.21574
 	Fwidth 400.000000
 	Fheight 500.000000
 	Iversion 3
-	Uitime 705603088
+	Uitime 705802774
 }
 
 Eastoredpositions
 {
 	Pchname Inventory_Root
-	Eoffsetfrom 5
-	Fpercentx 0.019635
-	Fpercenty 0.196574
+	Eoffsetfrom 12
+	Fpercenty 0.199074
 	Fwidth 527.000000
-	Fheight 683.000061
+	Fheight 680.000000
 	Iversion 2
-	Uitime 705641351
+	Uitime 709102597
 }
 
 Eastoredpositions
@@ -369,13 +407,13 @@ Eastoredpositions
 Eastoredpositions
 {
 	Pchname Mail_Root
-	Eoffsetfrom 5
-	Fpercentx 0.129167
-	Fpercenty 0.178889
+	Eoffsetfrom 10
+	Fpercentx 0.310547
+	Fpercenty 0.131944
 	Fwidth 700.000000
 	Fheight 592.000000
 	Iversion 3
-	Uitime 704995637
+	Uitime 709667348
 }
 
 Eastoredpositions
@@ -393,13 +431,13 @@ Eastoredpositions
 Eastoredpositions
 {
 	Pchname Options
-	Eoffsetfrom 10
-	Fpercentx 0.216666
-	Fpercenty 0.138888
+	Eoffsetfrom 12
+	Fpercentx 0.294836
+	Fpercenty 0.0659722
 	Fwidth 976.000000
 	Fheight 700.000000
 	Iversion 4
-	Uitime 702954531
+	Uitime 709668697
 }
 
 Eastoredpositions
@@ -418,67 +456,67 @@ Eastoredpositions
 {
 	Pchname Shipchooser_Root
 	Eoffsetfrom 3
-	Fpercenty 0.175925
+	Fpercenty 0.175
 	Iversion 4
-	Uitime 662115495
+	Uitime 705820012
 }
 
 Eastoredpositions
 {
 	Pchname Shipstore
 	Eoffsetfrom 12
-	Fpercentx 0.119792
-	Fpercenty 0.035185
+	Fpercentx 0.026042
+	Fpercenty 0.037037
 	Fwidth 1000.000000
 	Fheight 900.000000
 	Iversion 4
-	Uitime 704156528
+	Uitime 707469669
 }
 
 Eastoredpositions
 {
 	Pchname Social_Root
 	Eoffsetfrom 3
-	Fpercentx 0.306769
-	Fpercenty 0.268516
+	Fpercentx 0.30677
+	Fpercenty 0.264537
 	Fwidth 740.000000
-	Fheight 499.000061
+	Fheight 497.000031
 	Iversion 2
-	Uitime 687410020
+	Uitime 709106142
 }
 
 Eastoredpositions
 {
 	Pchname Spacecontact_Window
 	Eoffsetfrom 12
-	Fpercentx 0.133333
-	Fpercenty 0.139814
+	Fpercentx 0.026042
+	Fpercenty 0.017592
 	Iversion 1
-	Uitime 705478651
+	Uitime 709627681
 }
 
 Eastoredpositions
 {
 	Pchname Store
-	Eoffsetfrom 10
-	Fpercentx 0.271875
-	Fpercenty 0.24074
+	Eoffsetfrom 5
+	Fpercentx 0.253125
+	Fpercenty 0.186944
 	Fwidth 550.000000
 	Fheight 499.000061
 	Iversion 1
-	Uitime 705593642
+	Uitime 709616809
 }
 
 Eastoredpositions
 {
 	Pchname Storecollection_Root
 	Eoffsetfrom 12
-	Fpercentx 0.106302
-	Fpercenty 0.146296
+	Fpercentx 0.233385
+	Fpercenty 0.167592
 	Fwidth 960.999939
 	Fheight 700.000000
 	Iversion 3
-	Uitime 705287583
+	Uitime 708065403
 }
 
 Eastoredpositions
@@ -496,15 +534,15 @@ Eastoredpositions
 Eapairs
 {
 	Pchkey Cstorelastopened
-	Pchvalue 705609084
-	Uitime 705609085
+	Pchvalue 708917154
+	Uitime 708917154
 }
 
 Eapairs
 {
 	Pchkey Dailymissionvisible
-	Pchvalue 1
-	Uitime 709708477
+	Pchvalue 0
+	Uitime 707366489
 }
 
 Eapairs
@@ -517,8 +555,8 @@ Eapairs
 Eapairs
 {
 	Pchkey Dutyofficersettings
-	Pchvalue "Unset Unset *firstofficer 121999004 *engineeringhead 122013111 *operationshead 140650946 *sciencehead 123508302 *medicalhead 123508302 *tacticalhead 140408932 *securityhead 140408932 *recommendations 1 *commendations 1 *selectfilters 0 *selectgrouping 0 *assignmentview 1"
-	Uitime 705685935
+	Pchvalue "Unset Unset *firstofficer 140668434 *engineeringhead 141002389 *operationshead 140668434 *sciencehead 141147798 *medicalhead 141147798 *tacticalhead 121999004 *securityhead 140991080 *recommendations 1 *commendations 1 *selectfilters 1 *selectgrouping 0 *assignmentview 1"
+	Uitime 708309979
 }
 
 Eapairs
@@ -532,14 +570,14 @@ Eapairs
 {
 	Pchkey Itemequip_Mode
 	Pchvalue List
-	Uitime 704937288
+	Uitime 709627187
 }
 
 Eapairs
 {
 	Pchkey Jail_Cell_Count_Hud_Common_Common_Endeavor_Tracker
 	Pchvalue 0
-	Uitime 709708488
+	Uitime 707366504
 }
 
 Eapairs
@@ -565,7 +603,7 @@ Eapairs
 
 Pschemes
 {
-	Iversion 4747
+	Iversion 8755
 	Pchcurrent Space
 
 	Schemeregion
@@ -597,14 +635,11 @@ Pschemes
 		Bdoubletapdirtoroll 1
 		Baimmodeastoggle 1
 		Busezoomcamwithaimmode 1
-		Icamdistance 8.471729
+		Icamdistance 8.923492
 		Fcammaxdistance 35.000000
 		Fcammouselooksensitivity 0.977939
 		Fcamcontrollerlooksensitivity 2.000000
 		Buseoffsetrotation 1
-		Brequirevalidtarget 1
-		Allowkeyprofile STOGroundGameplay
-		Allowautoattacktype  Toggle, ToggleNoCancel, ToggleCombat, Maintain
 	}
 
 	Scheme Space Stospacegameplay
@@ -620,8 +655,8 @@ Pschemes
 		Bkeepmovingduringcontactdialogs 1
 		Bdoubletapdirtoroll 1
 		Baimmodeastoggle 1
-		Icamdistance 44.000000
-		Fcammaxdistance 200.000000
+		Icamdistance 55.000000
+		Fcammaxdistance 55.000000
 		Fcammouselooksensitivity 2.500000
 		Fcamcontrollerlooksensitivity 2.000000
 		Camcontrollersensitivitypitchmultiplier 0.5
@@ -2990,7 +3025,7 @@ Plooseui
 	Persistedwindow
 	{
 		Pchname Chat_Root
-		Uitime 705449386
+		Uitime 705964909
 		Bfwindows  1, 0, 0, 0, 0, 0, 0, 0
 	}
 
@@ -3026,6 +3061,7 @@ Plooseui
 		Powerlevelsmode 1
 		Version 1
 	}
+	Locktray 1
 	Showastrometrics 1
 }
 Earegionscales Ground 1.100000
@@ -3033,6 +3069,5 @@ Earegionscales Space 0.142535
 Earegionscales SectorSpace 0.055799
 Pchusercolorpalette Federation
 Ikeybindsversion 4
-Enablemoveequipment 1
 Enableddoubletaptorollspace 1
 }

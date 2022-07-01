@@ -183,7 +183,7 @@ X "ScanForClickies" ""
 Ctrl+x "ScanForClickies" ""
 Shift+z "HolsterToggle" ""
 Ctrl+d "+Aim"
-C "+Crouch"
+C "+Crouch$$+Down"
 
 Space "+Up" ""
 
